@@ -1,3 +1,3 @@
 # Scraping data from SeLoger
 
-Project used to scrape code from the website https://www.seloger.com/
+Scraping data from website https://www.seloger.com/
